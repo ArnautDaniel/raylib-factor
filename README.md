@@ -1,3 +1,5 @@
+![Raylib-factor Logo](https://github.com/silverbeard00/raylib-factor/blob/master/raylib-factor_256x256.png "Raylib-factor Logo")
+
 # raylib-factor
 bindings for the raylib library in Factor
 
