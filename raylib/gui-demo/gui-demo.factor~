@@ -1,0 +1,25 @@
+! Copyright (C) 2019 Jack Lucas
+! See http://factorcode.org/license.txt for BSD license.
+USING: raylib.ffi kernel math.ranges sequences locals random combinators.random  math threads calendar namespaces accessors classes.struct combinators alien.enums ;
+IN: raylib.gui-demo
+
+: make-window ( -- )
+    640 480 "Hello, Factor!" init-window
+    60 set-target-fps ;
+
+SYMBOL: panel-rec
+SYMBOL: panel-scroll
+
+: init-panel-rec ( -- )
+    20 40 200 150 Rectangle <struct-boa> panel-rec set ;
+
+: init-panel-scroll ( -- )
+    99 -20 Vector2 <struct-boa> panel-scroll set ;
+
+: init-variables ( -- )
+    init-panel-rec
+    init-panel-scroll ;
+
+: render-loop ( -- )
+    begin-drawing
+    ray-white
