@@ -1,7 +1,8 @@
 ![Raylib-factor Logo](https://github.com/silverbeard00/raylib-factor/blob/master/raylib-factor_256x256.png "Raylib-factor Logo")
 
 # raylib-factor
-bindings for the raylib library in Factor
+bindings for the raylib library in
+[Factor](https://factorcode.org "Factor")
 
 # How to use it
 I'm working on trying to get this library into the Factor "extra" libraries.  So hopefully soon,  simply by having Factor, you will have access to this library.
