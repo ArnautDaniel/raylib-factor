@@ -15,7 +15,7 @@ Simply **USE: raylib.ffi** and pretty soon you'll be saying...
 
 # What is it
 
-This is complete (one exception) bindings for the Raylib library (2.0).  It also includes **raygui** and **rayicon** support which will load automatically if the dll/so you are using has those modules compiled in.
+This is complete (one exception) bindings for the Raylib library (2.5).  It also includes **raygui** and **rayicon** support which will load automatically if the dll/so you are using has those modules compiled in.
 
 The exception is that android related structs are not included because Factor doesn't run on it.
 
