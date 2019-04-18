@@ -1,4 +1,4 @@
-! Copyright (C) 2019 Your name.
+! Copyright (C) 2019 Jack Lucas
 ! See http://factorcode.org/license.txt for BSD license.
 USING: raylib.ffi kernel math.ranges sequences locals random combinators.random  math threads calendar namespaces accessors alien.c-types classes.struct combinators alien.enums ;
 IN: piggy
