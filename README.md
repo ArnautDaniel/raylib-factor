@@ -10,6 +10,8 @@ I'm working on trying to get this library into the Factor "extra" libraries.  So
 
 This repo is mostly so I can have an easier place to make changes without having to work on a fork of Factor itself.  Of course you can use the library right now if you want by dropping the raylib folder in your factor/extra folder.
 
+**A Raylib/Factor** book is in the works.  Almost 70 pages so far!  
+
 Simply **USE: raylib.ffi** and pretty soon you'll be saying...
 ![Hello Factor](https://github.com/silverbeard00/raylib-factor/blob/master/hello-factor.png "Hello Factor")
 
