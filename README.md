@@ -6,11 +6,13 @@ bindings for the raylib library in
 
 
 # How to use it
-I'm working on trying to get this library into the Factor "extra" libraries.  So hopefully soon,  simply by having Factor, you will have access to this library.
+~~I'm working on trying to get this library into the Factor "extra" libraries.  So hopefully soon,  simply by having Factor, you will have access to this library.
 
-This repo is mostly so I can have an easier place to make changes without having to work on a fork of Factor itself.  Of course you can use the library right now if you want by dropping the raylib folder in your factor/extra folder.
+~~This repo is mostly so I can have an easier place to make changes without having to work on a fork of Factor itself.  Of course you can use the library right now if you want by dropping the raylib folder in your factor/extra folder.
 
-**A Raylib/Factor** book is in the works. 123 pages so far!  
+raylib-factor has been merged into the factor source tree!  If you have Factor then you're already good to go.  
+
+**A Raylib/Factor** book is in the works. 135 pages so far!  
 
 Simply **USE: raylib.ffi** and pretty soon you'll be saying...
 ![Hello Factor](https://github.com/silverbeard00/raylib-factor/blob/master/hello-factor.png "Hello Factor")
