@@ -14,6 +14,8 @@ raylib-factor has been merged into the factor source tree!  If you have Factor t
 
 **A Raylib/Factor** book is in the works. 135 pages so far!  
 
+[Fait Idees](https://faitidees.org/) holds draft copies.  And when I mean draft,  I mean read at your own peril right now.  It'll be done someday.
+
 Simply **USE: raylib.ffi** and pretty soon you'll be saying...
 ![Hello Factor](https://github.com/silverbeard00/raylib-factor/blob/master/hello-factor.png "Hello Factor")
 
