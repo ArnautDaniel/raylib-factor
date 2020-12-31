@@ -1,4 +1,4 @@
-![Raylib-factor Logo](https://github.com/silverbeard00/raylib-factor/blob/master/raylib-factor_256x256.png "Raylib-factor Logo")
+![Raylib-factor Logo](https://github.com/arnautdaniel/raylib-factor/blob/master/raylib-factor_256x256.png "Raylib-factor Logo")
 
 # raylib-factor
 bindings for the raylib library in
@@ -7,7 +7,7 @@ bindings for the raylib library in
 
 # How to use it
 
-raylib-factor has been merged into the factor source tree!  If you have Factor then you're already good to go.  
+raylib-factor has been merged into the factor source tree! (raylib-factor 3.5) If you have Factor then you're already good to go.  
 
 **A Raylib/Factor** book is in the works. 135 pages so far!  
 
@@ -18,7 +18,7 @@ Simply **USE: raylib.ffi** and pretty soon you'll be saying...
 
 # What is it
 
-This is complete (one exception) bindings for the Raylib library (2.5).  It also includes **raygui** and **rayicon** support which will load automatically if the dll/so you are using has those modules compiled in.
+This is complete (one exception) bindings for the Raylib library (3.5).  It also includes **raygui** and **rayicon** support which will load automatically if the dll/so you are using has those modules compiled in.
 
 The exception is that android related structs are not included because Factor doesn't run on it.
 
